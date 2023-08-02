@@ -13,4 +13,5 @@ we are checkign for a reviewer
 
 testing the git pull rebase false
 
-testing the git pull rebase true
+testing the git pull rebase true x 2
+
